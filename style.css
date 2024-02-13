@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  line-height: 1.6;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #333;
+  font-family: "Arial", sans-serif;
+}
+
+.container {
+  width: 80%;
+  max-width: 800px;
+  margin: auto;
+  border: 1px solid #ccc;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.9);
+}
+
+.container h1 {
+  color: #333;
+}
+
+.hidden-content {
+  display: none;
+}
+henrique .references {
+  margin-top: 20px;
+}
+
+.references a {
+  display: block;
+  margin-bottom: 10px;
+}
